@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (
-    <div className="App">
+    <div>
       <h1>Hello lp</h1>
     </div>
   );
