@@ -37,8 +37,8 @@ const UR = [
         <div className="contact wd-cont">
             <div className="component">
                 <Form className="card">
-                    <h3>Entre em contato</h3>
-                    <p>Estamos prontos para te atender da melhor forma possível.</p>
+                    <h3>Entraremos em contato com você!</h3>
+                    <p>Estamos prontos para te atender, informe seus dados e aguarde nosso contato.</p>
                     <FormGroup>
                         <Input type="text" name="name" placeholder="Nome"/>
                     </FormGroup>
