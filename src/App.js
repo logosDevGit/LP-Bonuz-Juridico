@@ -1,10 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import NavBar from './components/NavBar';
+import "./assets/styles/global.css"
 
 const App = () => {
   return (
-    <div>
-      <h1>Hello lp</h1>
-    </div>
+    <>
+      <NavBar/>
+    </>
   );
 }
 
