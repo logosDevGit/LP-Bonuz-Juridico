@@ -7,9 +7,43 @@
     display: grid;
     grid-auto-rows: 155px;
     grid-template-columns:repeat(5, 230px);
-    justify-items: center;
+    gap: 100px 15px;
+    justify-content: center;
+    padding-top: 60px;
 }
 .services .cards .card {
-    max-width: 230.4px;
-    height: 235px;
+    position: relative;
+    width: 100%;
+    background: #FFFFFF;
+    box-shadow: inset 0px -4px 0px var(--bonuz-red);
+    border-radius: 8px;
+    border: none;
+}
+.services .cards .card h6 {
+    padding: 50px 18px 30px;
+}
+.services .cards .card .icon{
+    position: absolute;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.16);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    top: -28px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+.services .cards .card span {
+    position: absolute;
+    bottom: 20px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    color: #F14F5C;
+    cursor: pointer;
 }
