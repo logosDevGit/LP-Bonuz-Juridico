@@ -1,0 +1,15 @@
+.services {
+    background: #FFF2F3;
+    text-align: center;
+}
+
+.services .cards {
+    display: grid;
+    grid-auto-rows: 155px;
+    grid-template-columns:repeat(5, 230px);
+    justify-items: center;
+}
+.services .cards .card {
+    max-width: 230.4px;
+    height: 235px;
+}
