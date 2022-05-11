@@ -1,0 +1,21 @@
+.question {
+    position: relative;
+}
+.question .bg {
+    position: absolute;
+    right: 0;
+    z-index: 0;
+    bottom: 0;
+}
+.question .info {
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    max-width: 613px;
+    padding: 30px 0;
+}
+
+.question .info button {
+    width: 249px;
+    height: 48px;
+}

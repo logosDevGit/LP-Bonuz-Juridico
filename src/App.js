@@ -6,6 +6,7 @@ import Welcome from './components/views/Welcome';
 import Contact from './components/views/Contact';
 import Differential from './components/views/Differential';
 import Services from './components/views/Services';
+import Question from './components/views/Question';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Contact/>
       <Differential/>
       <Services/>
+      <Question/>
       <Footer/>
     </>
   );
