@@ -1,5 +1,5 @@
 import './styles.css';
-import { services } from './services';
+import { services } from '../../../helpers/services.js';
 
 const Services = () => {
 

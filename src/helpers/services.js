@@ -1,13 +1,13 @@
-import Societario from "../../../assets/icons/societario.svg"
-import Contratos from "../../../assets/icons/contratos.svg"
-import PropriedadeIntelectual from "../../../assets/icons/prop_intel.svg"
-import ProtecaoDados from "../../../assets/icons/protecao_dados.svg"
-import Tributario from "../../../assets/icons/tributario.svg"
-import Imobiliario from "../../../assets/icons/imobiliario.svg"
-import Paralegal from "../../../assets/icons/paralegal.svg"
-import ServPF from "../../../assets/icons/serv-pf.svg"
-import ServE from "../../../assets/icons/serv-e.svg"
-import Trabalhista from "../../../assets/icons/trabalhista.svg"
+import Societario from "../assets/icons/societario.svg"
+import Contratos from "../assets/icons/contratos.svg"
+import PropriedadeIntelectual from "../assets/icons/prop_intel.svg"
+import ProtecaoDados from "../assets/icons/protecao_dados.svg"
+import Tributario from "../assets/icons/tributario.svg"
+import Imobiliario from "../assets/icons/imobiliario.svg"
+import Paralegal from "../assets/icons/paralegal.svg"
+import ServPF from "../assets/icons/serv-pf.svg"
+import ServE from "../assets/icons/serv-e.svg"
+import Trabalhista from "../assets/icons/trabalhista.svg"
 
 export const services =[
     {

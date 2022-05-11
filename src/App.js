@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "react-multi-carousel/lib/styles.css";
 import NavBar from './components/NavBar';
 import "./assets/styles/global.css"
 import Footer from './components/Footer';
