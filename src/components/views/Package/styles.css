@@ -17,3 +17,8 @@
     text-align: center;
     margin-top: 30px;
 }
+
+.package .sec-2 .cards {
+    display: flex;
+    justify-content: space-around;
+}

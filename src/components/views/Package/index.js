@@ -6,7 +6,7 @@ import './styles.css'
 const Package = () => {
 
     return(
-        <div className="package">
+        <div className="package wd-cont">
             <div className="sec-1">
                 <img src={OwlCoin} alt="Coruja com moedas"/>
                 <div className="info">

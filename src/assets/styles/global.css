@@ -47,3 +47,25 @@ input {
     background: #c9424d;
     color: white;
 }
+
+.btn.btn-basic {
+    background: #7683F6;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+.btn.btn-silver {
+    background: #9997A0;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+.btn.btn-gold {
+    background: #906624;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
