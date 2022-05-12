@@ -14,7 +14,11 @@ const Employees = () => {
 
     return ( 
         <div className="employees wd-cont">
-            <Carousel responsive={responsive}>
+            <Carousel 
+                responsive={responsive}
+                arrows={false}
+                showDots={true}
+            >
                 {employees.map(employees => (
                     <EmployeesCard employees={employees}/>
                 ))}
