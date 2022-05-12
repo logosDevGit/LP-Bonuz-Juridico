@@ -8,6 +8,7 @@ import Contact from './components/views/Contact';
 import Differential from './components/views/Differential';
 import Services from './components/views/Services';
 import Question from './components/views/Question';
+import Package from './components/views/Package';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Differential/>
       <Services/>
       <Question/>
+      <Package/>
       <Footer/>
     </>
   );
