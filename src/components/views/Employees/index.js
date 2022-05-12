@@ -20,6 +20,7 @@ const Employees = () => {
                 arrows={false}
                 showDots={true}
                 autoPlay={false}
+                shouldResetAutoplay={false}
             >
                 {employees.map(employees => (
                     <EmployeesCard employees={employees}/>
