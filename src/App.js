@@ -9,6 +9,7 @@ import Differential from './components/views/Differential';
 import Services from './components/views/Services';
 import Question from './components/views/Question';
 import Package from './components/views/Package';
+import Media from './components/views/Media';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Services/>
       <Question/>
       <Package/>
+      <Media/>
       <Footer/>
     </>
   );
