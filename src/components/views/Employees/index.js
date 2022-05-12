@@ -1,4 +1,7 @@
 import Carousel from "react-multi-carousel";
+import { employees } from "../../../helpers/employees";
+import EmployeesCard from "../../EmployeesCard";
+import './styles.css'
 
 const Employees = () => {
 
@@ -12,10 +15,9 @@ const Employees = () => {
     return ( 
         <div className="employees wd-cont">
             <Carousel responsive={responsive}>
-                <div>Teste</div>
-                <div>Teste</div>
-                <div>Teste</div>
-                <div>Teste</div>
+                {employees.map(employees => (
+                    <EmployeesCard employees={employees}/>
+                ))}
             </Carousel>
         </div>
     );
