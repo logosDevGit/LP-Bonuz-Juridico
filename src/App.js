@@ -11,6 +11,7 @@ import Question from './components/views/Question';
 import Package from './components/views/Package';
 import Media from './components/views/Media';
 import Clients from './components/views/Clients';
+import Employees from './components/views/Employees';
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
       <Package/>
       <Media/>
       <Clients/>
+      <Employees/>
       <Footer/>
     </>
   );
