@@ -10,6 +10,7 @@ import Services from './components/views/Services';
 import Question from './components/views/Question';
 import Package from './components/views/Package';
 import Media from './components/views/Media';
+import Clients from './components/views/Clients';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       <Question/>
       <Package/>
       <Media/>
+      <Clients/>
       <Footer/>
     </>
   );
