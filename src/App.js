@@ -23,14 +23,14 @@ const App = () => {
       <Welcome/>
       <Contact/>
       <Differential/>
-      {/* <Services/>
-      <Question/>
+      <Services/>
+      {/* <Question/>
       <Package/>
       <Media/>
       <Clients/>
       <Employees/>
       <Partners/>
-      <Banner/>  */}
+      <Banner/> */}
       <Footer/>
     </>
   );

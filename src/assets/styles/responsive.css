@@ -49,6 +49,15 @@
         margin: 0 10px;
     }
 
+    .services .cards {
+        grid-template-columns: repeat(2, 165px) !important;
+        grid-auto-rows: 170px !important;
+    }
+
+    .services .cards .card p {
+        font-size: 12px !important;
+    }
+
     footer {
         padding: 26px 10px;
     }
