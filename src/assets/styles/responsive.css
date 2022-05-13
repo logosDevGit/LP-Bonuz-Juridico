@@ -8,6 +8,7 @@
         margin-left: 10px;
         max-width: 300px;
     }
+    
 
     .welcome {
         display: flex;
@@ -22,6 +23,24 @@
     }
     .welcome .cont-1 {
         margin: 0 18px;
+    }
+
+
+    .contact .component{
+        display: flex;
+        align-items: flex-end;
+        margin: 0 auto;
+    }
+
+    .contact form {
+        max-width: 320px;
+    }
+
+    .contact form p {
+        font-size: 14px;
+    }
+    .contact svg {
+        max-width: 360px;
     }
 
     footer {
