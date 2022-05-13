@@ -20,9 +20,9 @@ const App = () => {
   return (
     <>
       <NavBar/>
-      {/* <Welcome/>
+      <Welcome/>
       <Contact/>
-      <Differential/>
+      {/* <Differential/>
       <Services/>
       <Question/>
       <Package/>
@@ -30,8 +30,8 @@ const App = () => {
       <Clients/>
       <Employees/>
       <Partners/>
-      <Banner/> */}
-      <Footer/>
+      <Banner/> 
+      <Footer/> */}
     </>
   );
 }
