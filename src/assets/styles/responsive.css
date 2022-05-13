@@ -58,6 +58,23 @@
         font-size: 12px !important;
     }
 
+
+    .question .info {
+        margin: 0 20px;
+    }
+
+    .question .bg {
+        display: none;
+    }
+
+    .question .info button {
+        width: auto;
+    }
+
+    .question .react-multi-carousel-list {
+        margin-top: 20px;
+    }
+
     footer {
         padding: 26px 10px;
     }

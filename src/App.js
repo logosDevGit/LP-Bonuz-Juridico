@@ -24,14 +24,14 @@ const App = () => {
       <Contact/>
       <Differential/>
       <Services/>
-      {/* <Question/>
-      <Package/>
+      <Question/>
+      {/* <Package/>
       <Media/>
       <Clients/>
       <Employees/>
       <Partners/>
-      <Banner/> */}
-      <Footer/>
+      <Banner/>
+      <Footer/> */}
     </>
   );
 }
