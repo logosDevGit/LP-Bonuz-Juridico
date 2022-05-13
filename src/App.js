@@ -25,8 +25,8 @@ const App = () => {
       <Differential/>
       <Services/>
       <Question/>
-      {/* <Package/>
-      <Media/>
+      <Package/>
+      {/* <Media/>
       <Clients/>
       <Employees/>
       <Partners/>

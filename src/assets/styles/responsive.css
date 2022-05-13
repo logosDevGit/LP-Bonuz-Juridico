@@ -71,6 +71,34 @@
         width: auto;
     }
 
+    .package .sec-1 {
+        flex-direction: column-reverse;
+        margin: 0 16px;
+    }
+    .package .sec-1 p{
+        font-weight: 400 !important;
+    }
+
+    .package .sec-1 img {
+        max-width: 280px;
+    }
+
+    .package .sec-2 .cards {
+        display: flex;
+        flex-direction: column;
+        margin: 0 16px;
+        align-items: center;
+    }
+    .package .sec-2 .cards .package-card {
+        margin: 18px 0;
+    }
+
+    .package .sec-2 small {
+        font-size: 12px !important;
+        margin-top: 0 !important;
+    }
+
+
     .question .react-multi-carousel-list {
         margin-top: 20px;
     }
