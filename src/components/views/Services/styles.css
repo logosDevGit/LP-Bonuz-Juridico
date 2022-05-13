@@ -14,10 +14,12 @@
 .services .cards .card {
     position: relative;
     width: 100%;
+    height: 155px;
     background: #FFFFFF;
     box-shadow: inset 0px -4px 0px var(--bonuz-red);
     border-radius: 8px;
     border: none;
+    cursor: pointer;
 }
 .services .cards .card h6 {
     padding: 50px 18px 30px;
