@@ -13,6 +13,7 @@ import Media from './components/views/Media';
 import Clients from './components/views/Clients';
 import Employees from './components/views/Employees';
 import Partners from './components/views/Partners';
+import Banner from './components/views/Banner';
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
       <Clients/>
       <Employees/>
       <Partners/>
+      <Banner/>
       <Footer/>
     </>
   );

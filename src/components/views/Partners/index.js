@@ -7,7 +7,7 @@ import Inovabra from '../../../assets/images/partners/inovabra.png'
 
 const Partners = () => {
     return ( 
-        <div className="partners wd-cont">
+        <div className="partners wd-cont pb-5">
             <h5 className='text-center'>Nossos parceiros:</h5>
             <div className="d-flex align-items-around justify-content-around pt-3">
                 <div><img src={Ifood} alt="Ifood Logo"/></div>
