@@ -8,7 +8,7 @@
         margin-left: 10px;
         max-width: 300px;
     }
-    
+
 
     .welcome {
         display: flex;
@@ -41,6 +41,12 @@
     }
     .contact svg {
         max-width: 360px;
+    }
+
+
+    .differential .cards-content {
+        flex-direction: column;
+        margin: 0 10px;
     }
 
     footer {
