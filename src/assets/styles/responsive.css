@@ -1,0 +1,24 @@
+@media all and (max-width: 600px) {
+
+    nav {
+        height: 80px;
+    }
+
+    nav img {
+        width: 200px;
+    }
+
+    footer {
+        padding: 26px 10px;
+    }
+
+    footer p,footer a {
+        margin-top: 12px !important;
+        font-size: 12px !important;
+    }
+
+    footer svg {
+        max-width: 150px;
+    }
+
+}
