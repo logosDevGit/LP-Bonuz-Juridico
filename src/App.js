@@ -28,10 +28,10 @@ const App = () => {
       <Package/>
       <Media/>
       <Clients/>
-      {/* <Employees/>
-      <Partners/>
-      <Banner/>
-      <Footer/> */}
+      <Employees/>
+      {/* <Partners/>
+      <Banner/> */}
+      <Footer/>
     </>
   );
 }

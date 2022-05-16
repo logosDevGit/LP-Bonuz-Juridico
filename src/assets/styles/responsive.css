@@ -109,6 +109,14 @@
         margin: 50px auto !important; 
     }
 
+    .employees-card p {
+        font-size: 14px;
+    }
+    .employees-card {
+        max-width: 340px !important;
+        margin: 0 auto;
+    }
+
     .media .icon {
         display: none;
     }
