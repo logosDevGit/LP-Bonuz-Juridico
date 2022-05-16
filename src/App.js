@@ -1,8 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "react-multi-carousel/lib/styles.css";
-import NavBar from './components/NavBar';
 import "./assets/styles/global.css"
 import "./assets/styles/responsive.css"
+import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import Welcome from './components/views/Welcome';
 import Contact from './components/views/Contact';
@@ -27,8 +27,8 @@ const App = () => {
       <Question/>
       <Package/>
       <Media/>
-      {/* <Clients/>
-      <Employees/>
+      <Clients/>
+      {/* <Employees/>
       <Partners/>
       <Banner/>
       <Footer/> */}

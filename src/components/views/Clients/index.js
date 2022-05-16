@@ -12,7 +12,7 @@ const Clients = () => {
     return ( 
         <div className="clients wd-cont">
             <h3 className="text-center py-4">Alguns dos nossos clientes:</h3>
-            <div className="d-flex justify-content-around">
+            <div className="d-flex justify-content-around flex-wrap">
                 <img src={Jobecam} alt="Jobecam logo" style={style}/>
                 <img src={Intracasa} alt="IntraCasa logo" style={style} />
                 <img src={Mimoo} alt="Mimoo logo" style={style}/>
