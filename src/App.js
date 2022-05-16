@@ -29,8 +29,8 @@ const App = () => {
       <Media/>
       <Clients/>
       <Employees/>
-      {/* <Partners/>
-      <Banner/> */}
+      <Partners/>
+      {/* <Banner/> */}
       <Footer/>
     </>
   );

@@ -108,6 +108,11 @@
         height: 180px !important;
         margin: 50px auto !important; 
     }
+    
+    .media .icon {
+        display: none;
+    }
+
 
     .employees-card p {
         font-size: 14px;
@@ -117,8 +122,9 @@
         margin: 0 auto;
     }
 
-    .media .icon {
-        display: none;
+
+    .partners .img-cont {
+        flex-wrap: wrap;
     }
 
     footer {
