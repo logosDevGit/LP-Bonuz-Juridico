@@ -127,6 +127,13 @@
         flex-wrap: wrap;
     }
 
+    .banner {
+        height: 100px !important;
+    }
+    .banner .owl img {
+        max-width: 100px;
+    }
+
     footer {
         padding: 26px 10px;
     }
