@@ -103,6 +103,16 @@
         margin-top: 20px;
     }
 
+    .media .video {
+        max-width: 320px !important;
+        height: 180px !important;
+        margin: 50px auto !important; 
+    }
+
+    .media .icon {
+        display: none;
+    }
+
     footer {
         padding: 26px 10px;
     }
