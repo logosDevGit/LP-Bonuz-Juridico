@@ -8,9 +8,14 @@ const Question = () => {
 
     const responsive = {
         desktop: {
-            breakpoint: { max: 4000, min: 1 },
+            breakpoint: { max: 4000, min: 601 },
             items: 5
-        }
+        },
+        mobile: {
+            breakpoint: { max: 600, min: 1 },
+            items: 3
+        },
+
     }
 
     return(

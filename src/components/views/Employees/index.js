@@ -8,8 +8,12 @@ const Employees = () => {
 
     const responsive = {
         desktop: {
-          breakpoint: { max: 3000, min: 0 },
+          breakpoint: { max: 3000, min: 601 },
           items: 3
+        },
+        mobile: {
+        breakpoint: { max: 600, min: 0 },
+          items: 1
         }
     };
 
