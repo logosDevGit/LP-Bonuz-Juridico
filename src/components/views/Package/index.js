@@ -11,7 +11,8 @@ const Package = () => {
                 <img src={OwlCoin} alt="Coruja com moedas"/>
                 <div className="info">
                     <h2>Compre pacotes e ganhe BNZ's!</h2>
-                    <p>Nossa Moeda Virtual Bonuz. Adquira um pacote, ganhe BNZ’s e troque por Serviços!Cliente Hubs obtem 20% de desconto na compra de pacote.</p>
+                    <p>Nossa Moeda Virtual Bonuz. Adquira um pacote, ganhe BNZ’s e troque por Serviços! </p>
+                    <p>Seu saldo BNZ's não expira!</p>
                 </div>               
             </div>
             <div className="sec-2">
