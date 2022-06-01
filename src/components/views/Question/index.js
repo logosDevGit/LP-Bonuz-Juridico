@@ -23,10 +23,9 @@ const Question = () => {
             <img className='bg' src={BgQuestion} alt="background"/>
             <div className='wd-cont'>
                 <div className='info'>
-                    <h2 className='pb-4'>Tire todas as suas dúvidas jurídicas!</h2>
-                    <p className='pb-4'>Solicite agora um call de 30 min com um especialista e tire suas dúvidas relacionadas</p>
-                    <strong className='pb-1'>Cliente Hubs obtem 20% de desconto no call com um Advogado!</strong>
-                    <small className='py-4'>*R$ 80,00 call com um advogado.</small>
+                    <h2 className='pb-4'>Tire todas as suas dúvidas Jurídicas!</h2>
+                    <p className='pb-4'>Você tem direito a uma consulta grátis de 30 min com um Advogado para conhecer nossos serviços!</p>
+                    <strong className='pb-4'>Cadastra-se agora e ganhe 20% de desconto em créditos nos serviços da B.onuz!</strong>
                     <button className='btn-red'>Saiba mais</button>
                     <Carousel
                         responsive={responsive}
